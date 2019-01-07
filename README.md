@@ -1,6 +1,6 @@
 # connect_socket_android
-
-
+## Demo Android Studio + Java
+```Android
 package com.example.fanstar.testsocket;
 
 import android.os.Bundle;
@@ -94,3 +94,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         thread.start();
     }
 }
+
+```
