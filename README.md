@@ -1,6 +1,6 @@
 # connect_socket_android
 ## Demo Android Studio + Java
-```Android
+```Java
 package com.example.fanstar.testsocket;
 
 import android.os.Bundle;
